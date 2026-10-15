@@ -1,4 +1,4 @@
-# advanced-sql-sales-analysis# Advanced SQL Sales Data Analysis
+# Advanced SQL Sales Data Analysis
 
 ## Project Overview
 This project uses MySQL to analyze sample sales data and identify revenue trends, top-performing products, customer purchasing patterns, and order status.
