@@ -43,3 +43,4 @@ This is a sample dataset created for learning and portfolio purposes. The result
 
 ## Skills Demonstrated
 SQL querying, relational joins, data aggregation, customer analysis, sales reporting, CTEs, and window functions.
+![SQL Analysis Results](sql-analysis-results.jpg)
